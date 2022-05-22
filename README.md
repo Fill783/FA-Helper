@@ -15,4 +15,4 @@ Features:
 • If any of your FA folders match with one of the words in the tags (Such as a character name), it will select said folders.	
 ```
 
-Download Here: https://github.com/Fill783/FA-Helper/raw/main/FA%20Helper.user.js
+Install Here: https://github.com/Fill783/FA-Helper/raw/main/FA%20Helper.user.js
